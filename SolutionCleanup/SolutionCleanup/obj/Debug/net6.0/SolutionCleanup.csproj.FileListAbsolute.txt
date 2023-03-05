@@ -1,0 +1,15 @@
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\bin\Debug\net6.0\SolutionCleanup.exe
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\bin\Debug\net6.0\SolutionCleanup.deps.json
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\bin\Debug\net6.0\SolutionCleanup.runtimeconfig.json
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\bin\Debug\net6.0\SolutionCleanup.dll
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\bin\Debug\net6.0\SolutionCleanup.pdb
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.csproj.AssemblyReference.cache
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.AssemblyInfoInputs.cache
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.AssemblyInfo.cs
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.csproj.CoreCompileInputs.cache
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.dll
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\refint\SolutionCleanup.dll
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.pdb
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\SolutionCleanup.genruntimeconfig.cache
+D:\ProgramsSoftUni\SolutionCleanup\SolutionCleanup\obj\Debug\net6.0\ref\SolutionCleanup.dll
