@@ -4,6 +4,8 @@
     {
         static void Main()
         {
+            Console.WriteLine("Pass the path to the solution file:");
+            Console.WriteLine(@"Example: (C:\MySolution\MySolution.sln)");
             string solutionFilePath = Console.ReadLine();
 
             if (solutionFilePath == null)

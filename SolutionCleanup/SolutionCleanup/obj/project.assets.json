@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProgramsSoftUni\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup.csproj",
+      "projectUniqueName": "D:\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup.csproj",
       "projectName": "SolutionCleanup",
-      "projectPath": "D:\\ProgramsSoftUni\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup.csproj",
+      "projectPath": "D:\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\ProgramsSoftUni\\SolutionCleanup\\SolutionCleanup\\obj\\",
+      "outputPath": "D:\\SolutionCleanup\\SolutionCleanup\\SolutionCleanup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
